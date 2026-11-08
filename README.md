@@ -91,14 +91,14 @@
     <p><b>Address 2:</b> 245 Hlahane, Katlehong 1431</p>
     <p><b>Website:</b> www.theneservices.com</p>
     <p><b>Email:</b> info@theneservies.com</p>
-    <p><b>Cell / WhatsApp:</b> 073 903 5729</p>
+    <p><b>Cell:</b> +27 73 720 3944 | WhatsApp:</b> +27 73 903 5729</p>
     <a href="mailto:info@theneservies.com" class="btn-gold">Email Us Now</a>
   </section>
 
   <!-- FOOTER -->
   <footer>
     <p>© THENE TSC Protection & Cleaners Services | theneservices.com</p>
-    <p>info@theneservies.com | 073 903 5729</p>
+    <p>info@theneservies.com | +27 73 720 3944</p>
   </footer>
 
 </body>
