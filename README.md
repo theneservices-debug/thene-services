@@ -4,7 +4,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  THENE TSC | Protection & Cleaners Services</>
+  THENE TSC | 
+<Protection & Cleaners Services</>
   <THENE TSC Protection and Cleaners Services - 100% Black Owned, EME Level 1, CIPC, PSIRA, TSC, CSD. Matatiele & Katlehong.">
   <link rel="stylesheet" href="style.css">
 </head>
